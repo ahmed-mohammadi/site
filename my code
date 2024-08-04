@@ -31,7 +31,8 @@
         </div>
     </header>
     <div class="container">
-        <p>هذا موقعي الشخصي الذي تم إنشاؤه باستخدام HTML و CSS.</p>
+        <p>هذا موقعي الشخصي الذي تم إنشاؤه باستخدام HTML و 
+css.</p>
     </div>
 </body>
 </html>
